@@ -17,7 +17,7 @@ TPS62822(non P2P)
 
 .. image:: ../_hw_static/03_DC_BUCK/03_DC_BUCK1.png
    :width: 1353 px
-   :height: 934 px
+   :height: 439 px
    :scale: 80%
 
 DC BUCK is highly correlated with system stability, RF performance, and power consumption. 
