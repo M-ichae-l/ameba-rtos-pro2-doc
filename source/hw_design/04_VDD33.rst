@@ -12,7 +12,7 @@ Must add another DC-DC BUCK to the peripheral circuit
 .. image:: ../_hw_static/04_VDD33/04_VDD33.png
    :width: 1380 px
    :height: 427 px
-   :scale: 75%
+   :scale: 70%
 
 .. note::
 
