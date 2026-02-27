@@ -22,7 +22,8 @@ SEN_SYSCLK --> sensor clock
 Pull high I2C by 4.7k ohms
 
 .. image:: ../_hw_static/06_Image_sensor/06_Image_sensor1.png
-
+   :width: 418 px
+   :height: 662 px
 
 Image sensor level shifter
 
@@ -39,6 +40,9 @@ SEN_SDA --> I2C_SDA NTJD4401N/SM1600DSCS, PH 4.7k ohms
 SEN_SYSCLK --> use 470, 560 ohms
 
 .. image:: ../_hw_static/06_Image_sensor/06_Image_sensor2.png
+   :width: 397 px
+   :height: 373 px
 
 .. image:: ../_hw_static/06_Image_sensor/06_Image_sensor3.png
-
+   :width: 680 px
+   :height: 280 px
