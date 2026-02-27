@@ -8,7 +8,7 @@ Welcome to AmebaPro2's Documentation!
 
 .. toctree::
    :caption: documentation list
-   :maxdepth: 4
+   :maxdepth: 3
 
    application_note/index
 
