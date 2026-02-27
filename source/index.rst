@@ -8,15 +8,8 @@ Welcome to AmebaPro2's Documentation!
 
 .. toctree::
    :caption: documentation list
-   :maxdepth: 3
+   :maxdepth: 4
 
    application_note/index
 
    hw_design/index
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
